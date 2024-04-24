@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const circles = document.querySelectorAll('.circle');
+const circles = document.querySelectorAll('.cirlce');
 const lines = document.querySelectorAll('.line');
 const nextButton = document.querySelector('#next');
 const prevButton = document.querySelector('#prev');
